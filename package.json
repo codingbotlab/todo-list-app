@@ -1,7 +1,7 @@
 {
-  "name": "todo-list-app",
+ "name": "todo-list-app",
   "version": "1.0.0",
-  "description": "A simple To-Do List application built with React",
+  "description": "A simple To-Do List app",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -12,8 +12,8 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3"
-    // Add other dependencies as needed
+    "react-scripts": "4.0.3",
+    // ... other dependencies
   },
   "devDependencies": {
     // Add any development dependencies here
