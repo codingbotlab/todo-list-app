@@ -13,11 +13,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
-    // ... other dependencies
   },
-  "devDependencies": {
-    // Add any development dependencies here
-  },
+  "devDependencies": {},
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
     "development": [
@@ -31,17 +28,13 @@
   },
   "stylelint": {
     "extends": "stylelint-config-standard"
-    // Add stylelint configurations as needed
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/codingbotlab/todo-list-app.git"
-    // Update the repository URL with your actual repository URL
   },
   "bugs": {
     "url": "https://github.com/codingbotlab/todo-list-app/issues"
-    // Update the bugs URL with your actual issues URL
   },
   "homepage": "https://codingbotlab.github.io/todo-list-app/"
-  // Update the homepage URL with your actual deployment URL
 }
